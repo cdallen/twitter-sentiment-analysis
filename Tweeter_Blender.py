@@ -1,4 +1,5 @@
 ## Source: https://www.earthdatascience.org/courses/earth-analytics-python/using-apis-natural-language-processing-twitter/get-and-use-twitter-data-in-python/
+## Created by Connor Allen and Dr. Curt Rode
 
 import os
 import tweepy as tw
